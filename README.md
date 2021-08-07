@@ -24,7 +24,7 @@ Important Factors to determine the Social Media Popularity includes:
 ● Number of People who Reviewed the Movie.
 ● Number of Facebook Likes on the Movie Page.
 Using these Metrics, we have come up with a Formula to calculate the Social Media Popularity of these Movies.
-  # *(No. of People Reviewed for Movie/No. Of People Voted for Movie)*No. Of Facebook Likes
+  *(No. of People Reviewed for Movie/No. Of People Voted for Movie)*No. Of Facebook Likes
   
 # Key Takeaways
 ● Understanding of Missing Values Treatment
